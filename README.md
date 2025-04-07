@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samvel Aslanyan</h1>
-<h3 align="center">A passionate software developer from Armenia</h3>
+<h2 align="center">Software developer</h2>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
