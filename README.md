@@ -65,7 +65,7 @@
       <strong>OOP</strong>
     </td>
     <td align="center">
-      <img src="https://imgs.search.brave.com/fKHwLN2m5zvJ7roOgUy8zwRjJ1lGId5i_-Xn_nH3Fk8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZy/ZWVwaWsuY29tLzI1/Ni8xMDg4LzEwODg1/ODEucG5nP3NlbXQ9/YWlzX2h5YnJpZA" width="50px" alt="STL"/><br/>
+      <img src="https://imgs.search.brave.com/fKHwLN2m5zvJ7roOgUy8zwRjJ1lGId5i_-Xn_nH3Fk8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZy/ZWVwaWsuY29tLzI1/Ni8xMDg4LzEwODg1/ODEucG5nP3NlbXQ9/YWlzX2h5YnJpZA" width="50px" align=top alt="STL"/><br/>
       <strong>STL</strong>
     </td>
     <td align="center">
