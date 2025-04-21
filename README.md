@@ -61,11 +61,11 @@
       <strong>Functional programming</strong>
     </td>
     <td align="center">
-      <img src="https://imgs.search.brave.com/GcN7pyFP_eFjQNYGDKe-CNClqsOhMpv73nz1OITcKWI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWdz/LnNlYXJjaC5icmF2/ZS5jb20vWUtQY3dB/Vk5QY2JleE1JUjhO/eHhYSDhaQzhhVV9s/Rnh2cllfaEJ4dkdD/RS9yczpmaXQ6NTYw/OjMyMDoxOjAvZzpj/ZS9hSFIwY0hNNkx5/OWpaRzQwL0xtbGpi/MjVtYVc1a1pYSXUv/WTI5dEwyUmhkR0V2/YVdOdi9ibk12ZEdW/amFHNXZiRzluL2VT/MDRNeTh4TURBd0wy/OWkvYW1WamRGOXdj/bTluY21GdC9iV2x1/WjE5a1pYWmxiRzl3/L2JXVnVkRjl2Y21s/bGJuUmwvWkY5a1pY/WmxiRzl3WlhKZi9i/MkpxWldOMExXOXlh/V1Z1L2RHVmtYM0J5/YjJkeVlXMXQvYVc1/blgzTnZablIzWVhK/bC9MVFV4TWk1d2Jt/Yw.jpeg" width="70px" alt="Object-Oriented Programming"/><br/>
+      <img src="https://imgs.search.brave.com/GcN7pyFP_eFjQNYGDKe-CNClqsOhMpv73nz1OITcKWI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWdz/LnNlYXJjaC5icmF2/ZS5jb20vWUtQY3dB/Vk5QY2JleE1JUjhO/eHhYSDhaQzhhVV9s/Rnh2cllfaEJ4dkdD/RS9yczpmaXQ6NTYw/OjMyMDoxOjAvZzpj/ZS9hSFIwY0hNNkx5/OWpaRzQwL0xtbGpi/MjVtYVc1a1pYSXUv/WTI5dEwyUmhkR0V2/YVdOdi9ibk12ZEdW/amFHNXZiRzluL2VT/MDRNeTh4TURBd0wy/OWkvYW1WamRGOXdj/bTluY21GdC9iV2x1/WjE5a1pYWmxiRzl3/L2JXVnVkRjl2Y21s/bGJuUmwvWkY5a1pY/WmxiRzl3WlhKZi9i/MkpxWldOMExXOXlh/V1Z1L2RHVmtYM0J5/YjJkeVlXMXQvYVc1/blgzTnZablIzWVhK/bC9MVFV4TWk1d2Jt/Yw.jpeg" width="100px" alt="Object-Oriented Programming"/><br/>
       <strong>OOP</strong>
     </td>
     <td align="center">
-      <img src="https://imgs.search.brave.com/fKHwLN2m5zvJ7roOgUy8zwRjJ1lGId5i_-Xn_nH3Fk8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZy/ZWVwaWsuY29tLzI1/Ni8xMDg4LzEwODg1/ODEucG5nP3NlbXQ9/YWlzX2h5YnJpZA" width="70px" alt="STL"/><br/>
+      <img src="https://imgs.search.brave.com/fKHwLN2m5zvJ7roOgUy8zwRjJ1lGId5i_-Xn_nH3Fk8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZy/ZWVwaWsuY29tLzI1/Ni8xMDg4LzEwODg1/ODEucG5nP3NlbXQ9/YWlzX2h5YnJpZA" width="100px" alt="STL"/><br/>
       <strong>STL</strong>
     </td>
     <td align="center">
