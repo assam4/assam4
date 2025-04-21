@@ -45,19 +45,19 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://imgs.search.brave.com/lNK_2Hswen0s4VIGlFFWMJJv_R11KFToABciqhQErdg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/dmVjdG9yc3RvY2su/Y29tL2kvcHJldmll/dy0xeC82NS8yNC9h/bGdvcml0aG0taWNv/bi12ZWN0b3ItMjcy/MzY1MjQuanBn" width="50px" alt="Algorithms"/><br/>
+      <img src="https://imgs.search.brave.com/lNK_2Hswen0s4VIGlFFWMJJv_R11KFToABciqhQErdg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/dmVjdG9yc3RvY2su/Y29tL2kvcHJldmll/dy0xeC82NS8yNC9h/bGdvcml0aG0taWNv/bi12ZWN0b3ItMjcy/MzY1MjQuanBn" width="35px" alt="Algorithms"/><br/>
       <strong>Algorithms</strong>
     </td>
     <td align="center">
-      <img src="https://tse3.mm.bing.net/th?id=OIP.T4kdn3ySz68dB2t_a2YyaQHaHa&w=474&h=474&c=7" width="50px" alt="Data Structures"/><br/>
+      <img src="https://tse3.mm.bing.net/th?id=OIP.T4kdn3ySz68dB2t_a2YyaQHaHa&w=474&h=474&c=7" width="30px" alt="Data Structures"/><br/>
       <strong>Data Structures</strong>
     </td>
      <td align="center">
-      <img src="https://imgs.search.brave.com/FInfNhlgKZjEbOZIohzTXQRHLbdjAY-eBG82e_7UvIk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/dmVjdG9yc3RvY2su/Y29tL2kvcHJldmll/dy0xeC81Ni8zNC9w/cm9jZWR1cmFsLXBy/b2dyYW1taW5nLWJs/dWUtZ3JhZGllbnQt/Y29uY2VwdC1pY29u/LXZlY3Rvci00NTI3/NTYzNC5qcGc" width="50px"/><br/>
+      <img src="https://imgs.search.brave.com/FInfNhlgKZjEbOZIohzTXQRHLbdjAY-eBG82e_7UvIk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/dmVjdG9yc3RvY2su/Y29tL2kvcHJldmll/dy0xeC81Ni8zNC9w/cm9jZWR1cmFsLXBy/b2dyYW1taW5nLWJs/dWUtZ3JhZGllbnQt/Y29uY2VwdC1pY29u/LXZlY3Rvci00NTI3/NTYzNC5qcGc" width="30px"/><br/>
       <strong>Procedural programming</strong>
     </td>
     <td align="center">
-      <img src="https://imgs.search.brave.com/pWci_7kt_PSAh9Rak0SGWXk8lk1WGo5lIoDgZnyidvc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/dmVjdG9yc3RvY2su/Y29tL2kvcHJldmll/dy0xeC81Ni8zOC9m/dW5jdGlvbmFsLXBy/b2dyYW1taW5nLWJs/dWUtZ3JhZGllbnQt/Y29uY2VwdC1pY29u/LXZlY3Rvci00NTI3/NTYzOC5qcGc" width="50px"/><br/>
+      <img src="https://imgs.search.brave.com/pWci_7kt_PSAh9Rak0SGWXk8lk1WGo5lIoDgZnyidvc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/dmVjdG9yc3RvY2su/Y29tL2kvcHJldmll/dy0xeC81Ni8zOC9m/dW5jdGlvbmFsLXBy/b2dyYW1taW5nLWJs/dWUtZ3JhZGllbnQt/Y29uY2VwdC1pY29u/LXZlY3Rvci00NTI3/NTYzOC5qcGc" width="30px"/><br/>
       <strong>Functional programming</strong>
     </td>
     <td align="center">
