@@ -46,18 +46,30 @@
   <tr>
     <td><strong>Algorithms</strong></td>
     <td><strong>Data Structures</strong></td>
+  </tr>
+  <tr>
     <td><strong>Custom Memory Management</strong></td>
     <td><strong>Procedural Programming</strong></td>
+  </tr>
+  <tr>
     <td><strong>Functional Programming</strong></td>
     <td><strong>OOP</strong></td>
+  </tr>
+  <tr>
     <td><strong>STL</strong></td>
- </tr>
- <tr>
     <td><strong>Debugging</strong></td>
+  </tr>
+  <tr>
     <td><strong>Version Control (Git)</strong></td>
     <td><strong>Metaprogramming</strong></td>
+  </tr>
+  <tr>
     <td><strong>Graphical Interface (FdF)</strong></td>
     <td><strong>UNIX Signals</strong></td>
+  </tr>
+  <tr>
     <td><strong>Multithreading</strong></td>
+    <td></td> <!-- Здесь можно оставить пустую ячейку, если нечего добавить -->
   </tr>
 </table>
+
