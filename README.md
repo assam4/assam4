@@ -42,53 +42,22 @@
 
 <h2 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">🛠️ SKILLS</h2>
 
-<style>
-  .skills-table {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    border-collapse: separate;
-    border-spacing: 20px;
-    margin: auto;
-    font-size: 16px;
-  }
-
-  .skills-table td {
-    text-align: center;
-    padding: 10px 20px;
-    background-color: #f9f9f9;
-    border-radius: 12px;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-    transition: all 0.3s ease;
-  }
-
-  .skills-table td:hover {
-    background-color: #e0f7fa;
-    transform: scale(1.05);
-  }
-
-  .skills-table strong {
-    display: block;
-    font-weight: 600;
-    color: #333;
-  }
-</style>
-
 <table class="skills-table">
   <tr>
     <td><strong>Algorithms</strong></td>
     <td><strong>Data Structures</strong></td>
+    <td><strong>Custom Memory Management</strong></td>
     <td><strong>Procedural Programming</strong></td>
     <td><strong>Functional Programming</strong></td>
-  </tr>
-  <tr>
     <td><strong>OOP</strong></td>
     <td><strong>STL</strong></td>
-    <td><strong>Multithreading</strong></td>
-    <td><strong>UNIX Signals</strong></td>
-  </tr>
-  <tr>
-    <td><strong>Metaprogramming</strong></td>
-    <td><strong>Graphical Interface (FdF)</strong></td>
+ </tr>
+ <tr>
     <td><strong>Debugging</strong></td>
     <td><strong>Version Control (Git)</strong></td>
+    <td><strong>Metaprogramming</strong></td>
+    <td><strong>Graphical Interface (FdF)</strong></td>
+    <td><strong>UNIX Signals</strong></td>
+    <td><strong>Multithreading</strong></td>
   </tr>
 </table>
