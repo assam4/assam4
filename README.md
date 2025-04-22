@@ -40,52 +40,55 @@
     </a>
 </div>
 
-<h2>🛠️ SKILLS</h2>
+<h2 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">🛠️ SKILLS</h2>
 
 <style>
-  .skill-icon {
-    width: 50px;
-    height: 50px;
-    object-fit: contain;
-    margin-bottom: 8px;
+  .skills-table {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-collapse: separate;
+    border-spacing: 20px;
+    margin: auto;
+    font-size: 16px;
   }
-  .skill-cell {
-    width: 120px;
-    padding: 10px;
+
+  .skills-table td {
     text-align: center;
-    vertical-align: top;
+    padding: 10px 20px;
+    background-color: #f9f9f9;
+    border-radius: 12px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    transition: all 0.3s ease;
+  }
+
+  .skills-table td:hover {
+    background-color: #e0f7fa;
+    transform: scale(1.05);
+  }
+
+  .skills-table strong {
+    display: block;
+    font-weight: 600;
+    color: #333;
   }
 </style>
 
-<table>
+<table class="skills-table">
   <tr>
-    <td class="skill-cell">
-      <img src="https://imgs.search.brave.com/lNK_2Hswen0s4VIGlFFWMJJv_R11KFToABciqhQErdg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/dmVjdG9yc3RvY2su/Y29tL2kvcHJldmll/dy0xeC82NS8yNC9h/bGdvcml0aG0taWNv/bi12ZWN0b3ItMjcy/MzY1MjQuanBn" alt="Algorithms" class="skill-icon"/>
-      <div><strong>Algorithms</strong></div>
-    </td>
-    <td class="skill-cell">
-      <img src="https://tse3.mm.bing.net/th?id=OIP.T4kdn3ySz68dB2t_a2YyaQHaHa&w=474&h=474&c=7" alt="Data Structures" class="skill-icon"/>
-      <div><strong>Data Structures</strong></div>
-    </td>
-    <td class="skill-cell">
-      <img src="https://imgs.search.brave.com/FInfNhlgKZjEbOZIohzTXQRHLbdjAY-eBG82e_7UvIk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/dmVjdG9yc3RvY2su/Y29tL2kvcHJldmll/dy0xeC81Ni8zNC9w/cm9jZWR1cmFsLXBy/b2dyYW1taW5nLWJs/dWUtZ3JhZGllbnQt/Y29uY2VwdC1pY29u/LXZlY3Rvci00NTI3/NTYzNC5qcGc" alt="Procedural" class="skill-icon"/>
-      <div><strong>Procedural programming</strong></div>
-    </td>
-    <td class="skill-cell">
-      <img src="https://imgs.search.brave.com/pWci_7kt_PSAh9Rak0SGWXk8lk1WGo5lIoDgZnyidvc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/dmVjdG9yc3RvY2su/Y29tL2kvcHJldmll/dy0xeC81Ni8zOC9m/dW5jdGlvbmFsLXBy/b2dyYW1taW5nLWJs/dWUtZ3JhZGllbnQt/Y29uY2VwdC1pY29u/LXZlY3Rvci00NTI3/NTYzOC5qcGc" alt="Functional" class="skill-icon"/>
-      <div><strong>Functional programming</strong></div>
-    </td>
-    <td class="skill-cell">
-      <img src="https://imgs.search.brave.com/GcN7pyFP_eFjQNYGDKe-CNClqsOhMpv73nz1OITcKWI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWdz/LnNlYXJjaC5icmF2/ZS5jb20vWUtQY3dB/Vk5QY2JleE1JUjhO/eHhYSDhaQzhhVV9s/Rnh2cllfaEJ4dkdD/RS9yczpmaXQ6NTYw/OjMyMDoxOjAvZzpj/ZS9hSFIwY0hNNkx5/OWpaRzQwL0xtbGpi/MjVtYVc1a1pYSXUv/WTI5dEwyUmhkR0V2/YVdOdi9ibk12ZEdW/amFHNXZiRzluL2VT/MDRNeTh4TURBd0wy/OWkvYW1WamRGOXdj/bTluY21GdC9iV2x1/WjE5a1pYWmxiRzl3/L2JXVnVkRjl2Y21s/bGJuUmwvWkY5a1pY/WmxiRzl3WlhKZi9i/MkpxWldOMExXOXlh/V1Z1L2RHVmtYM0J5/YjJkeVlXMXQvYVc1/blgzTnZablIzWVhK/bC9MVFV4TWk1d2Jt/Yw.jpeg" alt="OOP" class="skill-icon"/>
-      <div><strong>OOP</strong></div>
-    </td>
-    <td class="skill-cell">
-      <img src="https://imgs.search.brave.com/fKHwLN2m5zvJ7roOgUy8zwRjJ1lGId5i_-Xn_nH3Fk8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZy/ZWVwaWsuY29tLzI1/Ni8xMDg4LzEwODg1/ODEucG5nP3NlbXQ9/YWlzX2h5YnJpZA" alt="STL" class="skill-icon"/>
-      <div><strong>STL</strong></div>
-    </td>
-    <td class="skill-cell">
-      <img src="https://tse1.mm.bing.net/th?id=OIP.i9pzqSwhjddaXC8qJrVaFAHaHa&w=474&h=474&c=7" alt="Metaprogramming" class="skill-icon"/>
-      <div><strong>Metaprogramming</strong></div>
-    </td>
+    <td><strong>Algorithms</strong></td>
+    <td><strong>Data Structures</strong></td>
+    <td><strong>Procedural Programming</strong></td>
+    <td><strong>Functional Programming</strong></td>
+  </tr>
+  <tr>
+    <td><strong>OOP</strong></td>
+    <td><strong>STL</strong></td>
+    <td><strong>Multithreading</strong></td>
+    <td><strong>UNIX Signals</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Metaprogramming</strong></td>
+    <td><strong>Graphical Interface (FdF)</strong></td>
+    <td><strong>Debugging</strong></td>
+    <td><strong>Version Control (Git)</strong></td>
   </tr>
 </table>
